@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manabendra Mondal</h1>
-<h3 align="center">Software Developer | DSA | Problem Solving Developer with a Passion for Algorithms Logic-Driven Software Developer</h3>
+<h3 align="center">Software Developer | DSA | Problem Solving | Developer with a Passion for Algorithms Logic-Driven | Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manab-ghh&label=Profile%20views&color=0e75b6&style=flat" alt="manab-ghh" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart, for Mobile App**
+- 🌱 I’m currently learning **Flutter-Dart, for Mobile App and Desktop Application**
 
-- 💬 Ask me about **- Data Structures & Algorithms - Problem Solving (C++) - Python Basics - Competitive Programming - Flutter & App Development**
+- 💬 Ask me about **- Data Structures & Algorithms || Problem Solving (C++) || Python Basics || Competitive Programming || Flutter & App Development**
 
 - 📫 How to reach me **manabendra2006mondal@gmail.com**
 
