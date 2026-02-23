@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@manabendra87314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manabendra87314" height="30" width="40" /></a>
-<a href="https://linkedin.com/manabendra-mondal-22254434a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/manabendra-mondal-22254434a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manabendra-mondal-22254434a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/manabendra-mondal-22254434a" height="30" width="40" /></a>
 <a href="https://kaggle.com/manabendramondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manabendramondal" height="30" width="40" /></a>
 <a href="https://instagram.com/techflow_10011010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techflow_10011010" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manab__344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manab__344" height="30" width="40" /></a>
