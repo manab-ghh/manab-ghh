@@ -44,11 +44,11 @@ $ coffee             →  [██████████] 100%  (always)
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Role       :  CS Engineering Student                            ║
 ║  Focus      :  Backend Engineering + Artificial Intelligence     ║
-║  Languages  :  C++ · Python · Java · Dart · C                   ║
-║  Frameworks :  Flutter · Node.js · Express.js · Socket.IO       ║
+║  Languages  :  C++ · Python · Java · Dart · C                    ║
+║  Frameworks :  Flutter · Node.js · Express.js · Socket.IO        ║
 ║  Databases  :  MongoDB · MySQL · PostgreSQL · SQLite             ║
-║  Cloud/Ops  :  AWS · Docker · Linux · Git                       ║
-║  AI / ML    :  ML · DL · GenAI · LLMs · Transformers · Agents   ║
+║  Cloud/Ops  :  AWS · Docker · Linux · Git                        ║
+║  AI / ML    :  ML · DL · GenAI · LLMs · Transformers · Agents    ║
 ║  Status     :  Continuously Learning & Building  🚀              ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -298,8 +298,7 @@ Working on my next project combining **Backend Engineering + AI** — a scalable
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manab-ghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CDD9E5" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manab-ghh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5&hide=html,css&langs_count=8" alt="Top Languages" width="49%" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manab-ghh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manab-ghh&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
 
 <br/>
 
@@ -314,8 +313,6 @@ Working on my next project combining **Backend Engineering + AI** — a scalable
 ---
 
 ## 🐍 Contribution Journey
-
-> *The snake animation is generated via GitHub Actions and auto-updates with each contribution cycle.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manab-ghh/manab-ghh/output/github-contribution-grid-snake-dark.svg" />
