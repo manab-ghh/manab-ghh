@@ -298,16 +298,16 @@ Working on my next project combining **Backend Engineering + AI** — a scalable
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manab-ghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CDD9E5" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manab-ghh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5&hide=html,css" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=manab-ghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CDD9E5" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manab-ghh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5&hide=html,css&langs_count=8" alt="Top Languages" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manab-ghh&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" width="97%" />
+<img src="https://streak-stats.demolab.com?user=manab-ghh&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=CDD9E5" alt="GitHub Streak" width="97%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manab-ghh&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FF6B6B&hide_border=true" alt="Activity Graph" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manab-ghh&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FF6B6B&hide_border=true&area=true&area_color=38BDF8" alt="Contribution Activity Graph" width="97%" />
 
 </div>
 
