@@ -298,7 +298,7 @@ Working on my next project combining **Backend Engineering + AI** — a scalable
 
 <div align="center">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manab-ghh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manab-ghh&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manab-ghh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manab-ghh&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p> -->
 
 <br/>
 
@@ -306,7 +306,7 @@ Working on my next project combining **Backend Engineering + AI** — a scalable
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manab-ghh&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FF6B6B&hide_border=true&area=true&area_color=38BDF8" alt="Contribution Activity Graph" width="97%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=manab-ghh&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FF6B6B&hide_border=true&area=true&area_color=38BDF8" alt="Contribution Activity Graph" width="97%" /> -->
 
 </div>
 
