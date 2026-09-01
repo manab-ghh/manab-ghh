@@ -275,7 +275,7 @@ Personal portfolio website deployed on Firebase Hosting — showcasing projects,
 **Stack:** HTML · CSS · JavaScript · Firebase Hosting
 
 [![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://portfolio-37689.web.app)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manab-ghh)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manab-ghh/Portfolio)
 
 </td>
 <td width="50%" valign="top">
