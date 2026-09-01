@@ -323,48 +323,6 @@ Working on my next project combining **Backend Engineering + AI** — a scalable
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/manab-ghh/manab-ghh/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<details>
-<summary>⚙️ <strong>Setup Snake Animation (GitHub Actions)</strong></summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: manab-ghh
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
 ## 🧩 Coding Profiles
 
 <p align="left">
